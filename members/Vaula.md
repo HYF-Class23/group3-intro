@@ -26,4 +26,4 @@ I run a web shop and sell my art trough it.
 ## Why development?
 
 I want to combine my artistry with creating new apps and games. I also enjoy
-learning new things and challenging skills. 🚀
+learning new things and challenging skills. 🐱‍👤
