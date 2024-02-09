@@ -1,48 +1,29 @@
-# (project name)
+# Group 3 Introduction
 
-<!-- describe your project -->
+Welcome to Group 3's collaborative space, where diversity meets excellence! As a
+team of four driven individuals, we bring a rich tapestry of skills,
+experiences, and aspirations to the table. Together, we're on a mission to
+innovate, create, and achieve greatness.
 
-## Getting Started
+## Meet Our Team
 
-<!-- a guide to using this repository -->
+- **[Vaula Lukander](./members/vaula.md):** Vaula have always been a gamer and
+  interested in problem solving. Her head is always full of ideas and I am full
+  of creativity.
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+- **[King](./members/king.md):** King is a visionary leader with a knack for
+  strategic planning and project management.
 
-## Code Quality Checks
+- **[ERNESTO CALDERON](./members/ernesto.md):** ERNESTO have two Bachelor's
+  degrees, one in Civil Engineering and the other in Marketing, but I also have
+  a passion for computing
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+- **[Nibishaka Jean Felix](./members/felixd.md):** Felix'm an electronics and
+  telecommunication engineer with a strong background in mathematics and
+  physics.
 
-## Continuous Integration (CI)
+Individually, we each bring something special to the table. Collectively, we're
+a powerhouse of talent, innovation, and collaboration. Together, there's no
+limit to what we can achieve!
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+Let's dive in and make magic happen!
