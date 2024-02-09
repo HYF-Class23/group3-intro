@@ -1,5 +1,14 @@
 {
   "language": "en",
+  "words": [
+    "Nepo",
+    "foto",
+    "Neto",
+    "Hasselt",
+    "Nibishaka",
+    "Vaula",
+    "Lukander"
+  ],
 
   "ignorePaths": [
     "node_modules/**",
